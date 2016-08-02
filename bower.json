@@ -1,0 +1,22 @@
+{
+  "name": "flexisel",
+  "description": "A responsive carousel jQuery plugin",
+  "main": ["js/jquery.flexisel.js", "css/style.css"],
+  "dependencies": {
+    "jquery": ">= 1.7.0"
+  },
+  "keywords": [
+     "flexisel",
+     "images",
+     "carousel"
+   ],
+  "license": "MIT",
+  "author": "9bitStudios",
+  "ignore": [
+    "CHANGELOG.md",
+    "CONTRIBUTING.md",
+    "package.json",
+    "README.md",
+    "test.html"
+  ]
+}
